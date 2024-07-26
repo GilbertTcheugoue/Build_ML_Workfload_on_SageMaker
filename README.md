@@ -18,4 +18,4 @@ Step 4: Testing and evaluation
 
 # Running the Project
 
-Once you open the AWS Console, navigate to the main Sagemaker page and open up Sagemaker Studio. When your Sagemaker Studio instance is running, be sure to git clone the repository . Navigate to the "project_starter" folder which contains the starter notebook starter.ipynb.
+Once you open the AWS Console, navigate to the main Sagemaker page and open up Sagemaker Studio. When your Sagemaker Studio instance is running, be sure to git clone the repository . Navigate to the file build-a-ml-workload.ipynb.
